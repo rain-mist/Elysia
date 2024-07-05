@@ -1,0 +1,10 @@
+import abi from './Authentication.json';
+
+export const contractABI = abi.abi;
+
+// 0xB48Dd93d5E9d3405b179Bf1F8cbb2aBaf39E4CeE
+// 0x2b4695429cb51B6b10306D5Ec8485035FcB37735
+// 0x351904f0E1A1F407F1Dc84311E4fD8FC54315C07
+// 0x77d1472eF136807a496f151d7C39437CD992dfC4
+
+export const contractAddress = "0x77d1472eF136807a496f151d7C39437CD992dfC4";
